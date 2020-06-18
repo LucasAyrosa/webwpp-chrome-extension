@@ -1,0 +1,13 @@
+.changeSpeed {
+  color: gray;
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: transparent;
+  border: none;
+  border-radius: 50%;
+  padding: 8px;
+  height: auto;
+  width: auto;
+  position: relative;
+  margin-left: 10px;
+}
